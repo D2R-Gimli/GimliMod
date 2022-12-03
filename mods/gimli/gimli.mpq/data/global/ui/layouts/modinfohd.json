@@ -1,0 +1,101 @@
+{
+    "type": "HelpPanel",
+    "name": "modinfo",
+    "fields": {
+        "priority": 300,
+        "fitToParent": true,
+        "childFormats": [],
+    },
+    "children": [{
+            "type": "RectangleWidget",
+            "name": "TransparentBG",
+            "fields": {
+                "fitToScreen": true,
+                "color": [0.0, 0.0, 0.0, 0.6]
+            },
+            "children": [{
+                    "type": "ClickCatcherWidget",
+                    "name": "catcher",
+                    "fields": {
+                        "fitToParent": true
+                    }
+                }, ]
+        }, {
+            "type": "Widget",
+            "name": "CenterSection",
+            "fields": {
+                "anchor": {
+                    "x": 0.5,
+                    "y": 0.5
+                },
+                "rect": {
+                    "x": -55,
+                    "y": -400
+                },
+            },
+            "children": [{
+                    "type": "TextBoxWidget",
+                    "name": "ModInfo",
+                    "fields": {
+                        "rect": {
+                            "x": -550,
+                            "y": -500,
+                            "width": 1200,
+                            "height": 800
+                        },
+                        "text": " D2R - Gimli Mod\n (work on bnet) \n \n Creator:    | Gimli#4667 on Discord, e-soni on d2jsp\n Version:    | v2.3\n Latest Update: | 08.11.2022\n \n General Info: (check readme.txt for changelog)\n   - skipped videos, removed fog\n   - enhanced display for runes\n   - shorter text on some items\n   - color on items, gems\n   - highlight some items\n   - highlight good items on vendor screen\n   - hide crap stuff like bolts, etc.\n   - Keys/Organs bigger item display\n   - increased size of izual, nihla, cowking (baal-clone is smaller)\n   - Nihla 'eyes' now more visible\n   - Minimap is now 'middle' size (between mini and full)\n   - Health/mana text + stats/skills positions moved\n   - added infos to the cube background\n   - added colors to uber keys\n   - added light effect on item drops (runes, q-items, keys)\n   - added new image for Gull (improve gambling)\n   - added patch 2.5 changes\n   - added area-lvls to waypoints/tp/enter text\n   - improved loading time/removed some sounds\n   - removed arreat sky\n   - custom sundern skins\n \n \n Contact me for further improvements/ideas!",
+                        "fontType": "16ptF",
+                        "style": {
+                            "fontColor": {
+                                "r": 50,
+                                "g": 200,
+                                "b": 100,
+                                "a": 250
+                            },
+                            "pointSize": 23,
+                            "options": {
+                                "newlineHandling": "standard",
+                                "lineWrap": true
+                            },
+                            "alignment": {
+                                "h": "left"
+                            },
+                            "spacing": {
+                                "leading": 1.1
+                            }
+                        }
+                    }
+                }, {
+                    "type": "ButtonWidget",
+                    "name": "Close",
+                    "fields": {
+                        "anchor": {
+                            "x": 0.5
+                        },
+                        "rect": {
+                            "x": -135,
+                            "y": 800
+                        },
+                        "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonSmall_r",
+                        "textString": "close",
+                        "focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonSmall_Hover",
+                        "focusIndicatorOffset": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "onClickMessage": "PanelManager:ClosePanel:modinfo",
+                        "text/style": "$StyleFEButtonText",
+                        "pointSize": "$NormalFontSize",
+                        "textColor": {
+                            "r": 50,
+                            "g": 200,
+                            "b": 100,
+                            "a": 250
+                        },
+                        "tooltipString": "@strClose",
+                        "sound": "cursor_close_window_hd",
+                        "acceptsEscKeyEverywhere": true
+                    }
+                }, ]
+        }, ]
+}
