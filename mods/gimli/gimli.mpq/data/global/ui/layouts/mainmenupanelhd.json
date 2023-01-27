@@ -299,9 +299,10 @@
         {
             "type": "ImageWidget", "name": "Divider",
             "fields": {
-            "anchor": {"x": 0.5},
-			"rect": { "x": -17, "y": 1827 },
-			"filename": "FrontEnd/HD/Final/FrontEnd_Divider" },
+				"anchor": {"x": 0.5},
+				"rect": { "x": -17, "y": 1827 },
+				"filename": "FrontEnd/HD/Final/FrontEnd_Divider"
+			},
         },
         {
             "type": "ButtonWidget", "name": "SecondaryContextButton",

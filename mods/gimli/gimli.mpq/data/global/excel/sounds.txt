@@ -13,12 +13,12 @@ cursor_convert_ready	10	cursor_convert_ready_hd_4	sfx/cursor-ui_sd	cursor\conver
 cursor_convert_item	11	cursor_convert_item_hd_1	sfx/cursor-ui_sd	cursor\convert.flac	0	0	0	0	1	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
 cursor_identify_ready	12	cursor_identify_ready_hd_1	sfx/cursor-ui_sd	cursor\identifyready.flac	0	0	0	0	1	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	120	100	0	0	0	0	0	-1	-1	-1	0	0	
 cursor_identify_item	13	cursor_identify_item_hd_1	sfx/cursor-ui_sd	cursor\identify.flac	0	0	0	0	1	255	255	100	100	0	0	0	0	0	0	0	0	4	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
-cursor_questdone	14	cursor_questdone_hd_1	sfx/cursor-ui_sd	cursor\questdone.flac	0	0	0	0	1	255	255	100	100	0	0	0	0	0	0	0	0	12	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
+cursor_questdone	14	cursor_questdone_hd_1	sfx/cursor-ui_sd	cursor\questdone.flac	0	0	0	0	1	142	142	100	100	0	0	0	0	0	0	0	0	12	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
 cursor_repair_item	15	cursor_repair_item_hd_1	sfx/cursor-ui_sd	cursor\repair.flac	0	0	0	0	1	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
 cursor_hostile	16	cursor_hostile_hd_1	sfx/cursor-ui_sd	cursor\hostile.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
 cursor_amazon_select	17	cursor_amazon_select_hd	sfx/player-intro-selection_sd	cursor\intro\amazon_select.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
 cursor_amazon_deselect	18	cursor_amazon_deselect_hd	sfx/player-intro-selection_sd	cursor\intro\amazon_deselect.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
-cursor_barbarian_select	19	cursor_barbarian_select_hd	sfx/player-intro-selection_sd	cursor\intro\barbarian_select.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
+cursor_barbarian_select	19	cursor_barbarian_select_hd	sfx/player-intro-selection_sd	cursor\intro\barbarian_select.flac	0	0	0	0	0	100	100	100	100	0	0	0	0	0	0	1	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
 cursor_barbarian_deselect	20	cursor_barbarian_deselect_hd	sfx/player-intro-selection_sd	cursor\intro\barbarian_deselect.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
 cursor_necromancer_select	21	cursor_necromancer_select_hd	sfx/player-intro-selection_sd	cursor\intro\necromancer_select.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	
 cursor_necromancer_deselect	22	cursor_necromancer_deselect_hd	sfx/player-intro-selection_sd	cursor\intro\necromancer_deselect.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	1	0	0	1	0	120	255	0	0	0	0	0	-1	-1	-1	0	0	

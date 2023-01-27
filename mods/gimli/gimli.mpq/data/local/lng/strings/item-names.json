@@ -1277,7 +1277,7 @@
   {
     "id": 1997,
     "Key": "fla",
-    "enUS": "*Flail*",
+    "enUS": "Flail",
     "zhTW": "連枷",
     "deDE": "[ms]Flegel",
     "esES": "[ms]Mangual",
@@ -1413,7 +1413,7 @@
   {
     "id": 2005,
     "Key": "crs",
-    "enUS": "*Crystal Sword*",
+    "enUS": "* CRYSTAL SWORD *",
     "zhTW": "水晶劍",
     "deDE": "[ns]Kristallschwert",
     "esES": "[fs]Espada de cristal",
@@ -2671,7 +2671,7 @@
   {
     "id": 2080,
     "Key": "xtp",
-    "enUS": "** Mage Plate **",
+    "enUS": "** [MAGE PLATE] **",
     "zhTW": "法師鎧甲",
     "deDE": "[fs]Magierplattenrüstung",
     "esES": "[fs]Coraza de mago",
@@ -2926,7 +2926,7 @@
   {
     "id": 2095,
     "Key": "xsk",
-    "enUS": "*Death Mask*",
+    "enUS": "Death Mask",
     "zhTW": "死亡面具",
     "deDE": "[fs]Totenmaske",
     "esES": "[fs]Máscara de la muerte",
@@ -5170,7 +5170,7 @@
   {
     "id": 2239,
     "Key": "gzv",
-    "enUS": "ÿc;o ÿc0Flawless Amethyst ÿc;o",
+    "enUS": "ÿc;o ÿc0F-Amethyst",
     "zhTW": "無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
@@ -5187,7 +5187,7 @@
   {
     "id": 2240,
     "Key": "gpv",
-    "enUS": "ÿc;O Perfect Amethyst O",
+    "enUS": "ÿc;O P-Amethyst",
     "zhTW": "完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
@@ -5255,7 +5255,7 @@
   {
     "id": 2244,
     "Key": "gly",
-    "enUS": "ÿc9o ÿc0Flawless Topaz ÿc9o",
+    "enUS": "ÿc9o ÿc0F-Topaz",
     "zhTW": "無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
@@ -5272,7 +5272,7 @@
   {
     "id": 2245,
     "Key": "gpy",
-    "enUS": "ÿc9O Perfect Topaz O",
+    "enUS": "ÿc9O P-Topaz",
     "zhTW": "完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
@@ -5323,7 +5323,7 @@
   {
     "id": 2249,
     "Key": "glb",
-    "enUS": "ÿc3o ÿc0Flawless Sapphire ÿc3o",
+    "enUS": "ÿc3o ÿc0F-Sapphire",
     "zhTW": "無瑕藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
@@ -5340,7 +5340,7 @@
   {
     "id": 2250,
     "Key": "gpb",
-    "enUS": "ÿc3O Perfect Sapphire O",
+    "enUS": "ÿc3O P-Sapphire",
     "zhTW": "完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
@@ -5391,7 +5391,7 @@
   {
     "id": 2253,
     "Key": "glg",
-    "enUS": "ÿc2o ÿc0Flawless Emerald ÿc2o",
+    "enUS": "ÿc2o ÿc0F-Emerald",
     "zhTW": "無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
@@ -5408,7 +5408,7 @@
   {
     "id": 2255,
     "Key": "gpg",
-    "enUS": "ÿc2O Perfect Emerald O",
+    "enUS": "ÿc2O P-Emerald",
     "zhTW": "完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
@@ -5459,7 +5459,7 @@
   {
     "id": 2259,
     "Key": "glr",
-    "enUS": "ÿc1o ÿc0Flawless Ruby ÿc1o",
+    "enUS": "ÿc1o ÿc0F-Ruby",
     "zhTW": "無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
@@ -5476,7 +5476,7 @@
   {
     "id": 2260,
     "Key": "gpr",
-    "enUS": "ÿc1O Perfect Ruby O",
+    "enUS": "ÿc1O P-Ruby",
     "zhTW": "完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
@@ -5527,7 +5527,7 @@
   {
     "id": 2264,
     "Key": "glw",
-    "enUS": "ÿc5o ÿc0Flawless Diamond ÿc5o",
+    "enUS": "ÿc5o ÿc0F-Diamond",
     "zhTW": "無瑕鑽石",
     "deDE": "makelloser Diamant",
     "esES": "Diamante sin defectos",
@@ -5544,7 +5544,7 @@
   {
     "id": 2265,
     "Key": "gpw",
-    "enUS": "ÿc5O Perfect Diamond O",
+    "enUS": "ÿc5O P-Diamond",
     "zhTW": "完美鑽石",
     "deDE": "perfekter Diamant",
     "esES": "Diamante perfecto",
@@ -5782,7 +5782,7 @@
   {
     "id": 2280,
     "Key": "skl",
-    "enUS": "ÿc6o ÿc0Flawless Skull ÿc6o",
+    "enUS": "ÿc6o ÿc0F-Skull",
     "zhTW": "無瑕骷髏石",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
@@ -5799,7 +5799,7 @@
   {
     "id": 2281,
     "Key": "skz",
-    "enUS": "ÿc6O Perfect Skull O",
+    "enUS": "ÿc6O P-Skull",
     "zhTW": "完美骷髏石",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
@@ -5935,7 +5935,7 @@
   {
     "id": 2386,
     "Key": "circlet",
-    "enUS": "\n   Circlet   \n",
+    "enUS": "Circlet",
     "zhTW": "飾環",
     "deDE": "Diadem",
     "esES": "[fs]Aureola",
@@ -12259,7 +12259,7 @@
   {
     "id": 11010,
     "Key": "7wa",
-    "enUS": "** Berserker Axe **",
+    "enUS": "** BERSERKER AXE **",
     "zhTW": "狂戰斧",
     "deDE": "[fs]Berserkeraxt",
     "esES": "[fs]Hacha de berserker",
@@ -13330,7 +13330,7 @@
   {
     "id": 20230,
     "Key": "7cr",
-    "enUS": "** Phase Blade **",
+    "enUS": "** PHASE BLADE **",
     "zhTW": "幻化之刃",
     "deDE": "[fs]Phasenklinge",
     "esES": "[fs]Espada de fase",
@@ -13772,7 +13772,7 @@
   {
     "id": 20256,
     "Key": "7st",
-    "enUS": "** Ghost Spear **",
+    "enUS": "** GHOST SPEAR **",
     "zhTW": "鬼魂長矛",
     "deDE": "[ms]Geisterspeer",
     "esES": "[fs]Lanza fantasmal",
@@ -13789,7 +13789,7 @@
   {
     "id": 20257,
     "Key": "7p7",
-    "enUS": "** War Pike **",
+    "enUS": "** WAR PIKE **",
     "zhTW": "征戰長槍",
     "deDE": "[fs]Kriegspike",
     "esES": "[fs]Pica de guerra",
@@ -13823,7 +13823,7 @@
   {
     "id": 20259,
     "Key": "7vo",
-    "enUS": "** Colossus Voulge **",
+    "enUS": "** COLOSSUS VOULGE **",
     "zhTW": "巨神長柄斧",
     "deDE": "[fs]Kolossvulge",
     "esES": "[ms]Voulge del coloso",
@@ -13840,7 +13840,7 @@
   {
     "id": 20260,
     "Key": "7s8",
-    "enUS": "** Thresher **",
+    "enUS": "** THRESHER **",
     "zhTW": "斬鐮",
     "deDE": "[ms]Drescher",
     "esES": "[fs]Trilladora",
@@ -13857,7 +13857,7 @@
   {
     "id": 20261,
     "Key": "7pa",
-    "enUS": "** Cryptic Axe **",
+    "enUS": "** CRYPTIC AXE **",
     "zhTW": "絕秘斧",
     "deDE": "[fs]Rätselhafte Axt",
     "esES": "[fs]Hacha críptica",
@@ -13874,7 +13874,7 @@
   {
     "id": 20262,
     "Key": "7h7",
-    "enUS": "** Great Poleaxe **",
+    "enUS": "** GREAT POLEAXE **",
     "zhTW": "巨型長柄斧",
     "deDE": "[fs]Große Stangenaxt",
     "esES": "[fs]Gran hacha larga",
@@ -15149,7 +15149,7 @@
   {
     "id": 20337,
     "Key": "ci0",
-    "enUS": "** Circlet **",
+    "enUS": "  ### [CIRCLET] ###  ",
     "zhTW": "頭環",
     "deDE": "[ms]Reif",
     "esES": "[fs]Aureola",
@@ -15166,7 +15166,7 @@
   {
     "id": 20338,
     "Key": "ci1",
-    "enUS": "\n   Coronet   \n",
+    "enUS": "  ### [CORONET] ###  ",
     "zhTW": "寶冠",
     "deDE": "[ns]Krönchen",
     "esES": "[fs]Coronilla",
@@ -15183,7 +15183,7 @@
   {
     "id": 20339,
     "Key": "ci2",
-    "enUS": "\n   Tiara   \n",
+    "enUS": "  ### [TIARA] ###  ",
     "zhTW": "頭冠",
     "deDE": "[fs]Tiara",
     "esES": "[fs]Tiara",
@@ -15200,7 +15200,7 @@
   {
     "id": 20340,
     "Key": "ci3",
-    "enUS": "\n   Diadem   \n",
+    "enUS": "  ### [DIADEM] ###  ",
     "zhTW": "權冠",
     "deDE": "[ns]Diadem",
     "esES": "[fs]Diadema",
@@ -15217,7 +15217,7 @@
   {
     "id": 20341,
     "Key": "uap",
-    "enUS": "\n   Shako   \n",
+    "enUS": "  ### [SHAKO] ###  ",
     "zhTW": "軍帽",
     "deDE": "[ms]Tschako",
     "esES": "[ms]Chacó",
@@ -15336,7 +15336,7 @@
   {
     "id": 20348,
     "Key": "uui",
-    "enUS": "** Dusk Shroud **",
+    "enUS": "** DUSK SHROUD **",
     "zhTW": "灰暮罩衣",
     "deDE": "[ms]Dämmerschleier",
     "esES": "[fs]Mortaja del crepúsculo",
@@ -15523,7 +15523,7 @@
   {
     "id": 20359,
     "Key": "uth",
-    "enUS": "** Lacquered Plate **",
+    "enUS": "** LACQUERED PLATE **",
     "zhTW": "漆護鎧甲",
     "deDE": "[fs]Lackierte Plattenrüstung",
     "esES": "[fs]Coraza lacada",
@@ -15557,7 +15557,7 @@
   {
     "id": 20361,
     "Key": "uar",
-    "enUS": "** Sacred Armor **",
+    "enUS": "** SACRED ARMOR **",
     "zhTW": "神聖戰甲",
     "deDE": "[fs]Heilige Rüstung",
     "esES": "[fs]Armadura sacra",
@@ -15642,7 +15642,7 @@
   {
     "id": 20366,
     "Key": "uit",
-    "enUS": "\n   Monarch   \n",
+    "enUS": "  ### [MONARCH] ###  ",
     "zhTW": "君主盾",
     "deDE": "[ms]Monarch",
     "esES": "[ms]Monarca",
@@ -16509,7 +16509,7 @@
   {
     "id": 20417,
     "Key": "pab",
-    "enUS": "\n   Sacred Targe   \n",
+    "enUS": "  ### [SACRED TARGE] ###  ",
     "zhTW": "神聖小盾",
     "deDE": "[fs]Heilige Targe",
     "esES": "[fs]Adarga sacra",
@@ -16662,7 +16662,7 @@
   {
     "id": 20433,
     "Key": "jew",
-    "enUS": "\n   Jewel   \n",
+    "enUS": "  ### [JEWEL] ###  ",
     "zhTW": "珠寶",
     "deDE": "[ns]Juwel",
     "esES": "[fs]Joya",
@@ -16696,7 +16696,7 @@
   {
     "id": 20435,
     "Key": "cm1",
-    "enUS": "\n   Small Charm   \n",
+    "enUS": "  ### [SMALL CHARM] ###  ",
     "zhTW": "小型咒符",
     "deDE": "[ms]Kleiner Zauber",
     "esES": "[ms]Dije pequeño",
@@ -16713,7 +16713,7 @@
   {
     "id": 20436,
     "Key": "cm2",
-    "enUS": "\n   Large Charm   \n",
+    "enUS": "Large Charm",
     "zhTW": "大型咒符",
     "deDE": "[ms]Großer Zauber",
     "esES": "[ms]Dije grande",
@@ -16730,7 +16730,7 @@
   {
     "id": 20437,
     "Key": "cm3",
-    "enUS": "\n   Grand Charm   \n",
+    "enUS": "  ### [GRAND CHARM] ###  ",
     "zhTW": "特大咒符",
     "deDE": "[ms]Riesenzauber",
     "esES": "[ms]Dije enorme",
