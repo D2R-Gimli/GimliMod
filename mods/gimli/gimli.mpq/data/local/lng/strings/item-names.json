@@ -4796,7 +4796,7 @@
   {
     "id": 2212,
     "Key": "amu",
-    "enUS": "** Amulet **",
+    "enUS": "** [Amulet] **",
     "zhTW": "護身符",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
@@ -4830,7 +4830,7 @@
   {
     "id": 2214,
     "Key": "rin",
-    "enUS": "** Ring **",
+    "enUS": "** [Ring] **",
     "zhTW": "戒指",
     "deDE": "[ms]Ring",
     "esES": "[ms]Anillo",
@@ -12701,7 +12701,7 @@
   {
     "id": 20192,
     "Key": "9tw",
-    "enUS": "Greater Talons",
+    "enUS": "## [Greater Talons] ##",
     "zhTW": "巨鷹爪",
     "deDE": "[pl]Großklauen",
     "esES": "[fp]Garfas enormes",

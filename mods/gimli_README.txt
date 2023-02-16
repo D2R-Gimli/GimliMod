@@ -40,16 +40,17 @@ To start D2R with the local extracted files (including the mod now) you have to 
 
 [CHANGELOG]
 ----------------------
-# v3.0
-	- Patch 2.6 PTR updates for all modfiles
+# v3.1
+	- Patch 2.6 updates for all modfiles
 	- Highlight Enchant/BO for better shopping/whites
 	- Added highlighting for 3 Fire (for Ench items)
-	- Removed the NPC talking (settings: audio only!)
+	- Removed the NPC talking (select in settings - npc speech: audio only!)
 	- Added Nihlathak arrows (walls changed back to original)
 	- Added Circle effect for Tower, Durance,...
 	- Added Tombs symbols to WP + entrances
 	- View od Jewels, Charms, etc. changed (linking now possible)
 	- Changed gem naming/coloring
+	- Added Gheeds skin
 	
 
 # v2.3

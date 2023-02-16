@@ -1730,9 +1730,9 @@
   "ultra": "armor/quilted_armor"
 } },
   { "gheeds_fortune": {
-  "normal": "charm/charm_large",
-  "uber": "charm/charm_large",
-  "ultra": "charm/charm_large"
+  "normal": "charm/gheeds",
+  "uber": "charm/gheeds",
+  "ultra": "charm/gheeds"
 } },
   { "stormlash": {
   "normal": "mace/flail",
