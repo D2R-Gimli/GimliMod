@@ -40,6 +40,11 @@ To start D2R with the local extracted files (including the mod now) you have to 
 
 [CHANGELOG]
 ----------------------
+# v3.2
+	- hotfix for crap / superior items
+	- activated back the pathfinding hints
+
+
 # v3.1
 	- Patch 2.6 updates for all modfiles
 	- Highlight Enchant/BO for better shopping/whites
