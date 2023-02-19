@@ -31996,7 +31996,7 @@
   {
     "id": 27301,
     "Key": "DesecratedWarningDeactivatingTier1",
-    "enUS": "The tremors show signs of slowing.",
+    "enUS": "Terror Zone ends in 10 min.",
     "zhTW": "震盪有緩下來的跡象。",
     "deDE": "Die Beben scheinen sich zu legen.",
     "esES": "Los temblores parecen cada vez menos frecuentes.",
@@ -32030,7 +32030,7 @@
   {
     "id": 27308,
     "Key": "DesecratedWarningDeactivatingTier2",
-    "enUS": "The corruption begins to fade.",
+    "enUS": "Terror Zone ends in 5 min.",
     "zhTW": "腐化開始減弱了。",
     "deDE": "Die Verderbnis beginnt, nachzulassen.",
     "esES": "La corrupción empieza a desvanecerse.",
@@ -32064,7 +32064,7 @@
   {
     "id": 27315,
     "Key": "DesecratedWarningDeactivatingTier3",
-    "enUS": "The corruption has all but dissipated.",
+    "enUS": "Terror Zone ends in 1 min.",
     "zhTW": "腐化幾乎消散殆盡了。",
     "deDE": "Die Verderbnis ist so gut wie zerstreut.",
     "esES": "La corrupción prácticamente se ha disipado.",
