@@ -40,10 +40,19 @@ To start D2R with the local extracted files (including the mod now) you have to 
 
 [CHANGELOG]
 ----------------------
+# v3.2c
+	- Added more objects for pathfinding (Tree, HFQ, Radament, LK chests..)
+	- Changed the texture on Tower chest + Specialchest from A5
+	
+# v3.2b
+	- Lighting/Pathfinding changes
+	
+# v3.2a
+	- TZ fixes
+	
 # v3.2
 	- hotfix for crap / superior items
 	- activated back the pathfinding hints
-
 
 # v3.1
 	- Patch 2.6 updates for all modfiles
@@ -57,7 +66,6 @@ To start D2R with the local extracted files (including the mod now) you have to 
 	- Changed gem naming/coloring
 	- Added Gheeds skin
 	
-
 # v2.3
 	- Skipping the videos on start or act change
 	- Enhanced display features for higher runes Lem+Pul with "**"
